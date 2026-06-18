@@ -1,0 +1,6 @@
+{
+  "name": "SIM GOS Test",
+  "description": "Sistem Informasi Manajemen Rumah Sakit dengan database PostgreSQL Cloud SQL dan autentikasi aman Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
